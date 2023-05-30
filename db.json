@@ -1,0 +1,362 @@
+{
+	"productCategories": [
+		{
+			"name": "Central Funding",
+			"productTypes": [
+				{
+					"name": "AAG - Derivatives"					
+				},
+				{
+					"name": "AAG - Loans, Custody and Admin"					
+				},
+				{
+					"name": "Prime Brokerage"					
+				},
+				{
+					"name": "Repo - Bilateral"
+				},
+				{
+					"name": "Repo - Triparty"
+				},
+				{
+					"name": "Securities Lending - Bilateral"
+				},
+				{
+					"name": "Securities Lending - Triparty"
+				}
+			]
+		},
+		{
+			"name": "Commodities",
+			"productTypes": [
+				{
+					"name": "Cash-Settled"
+				},
+				{
+					"name": "Financing (Commodities)"
+				},
+				{
+					"name": "Physically-Settled"
+				},
+				{
+					"name": "Structured Notes DVP (Commodities)"
+				}
+		},
+		{
+			"name": "Corporate Banking",
+			"productTypes": [
+				{
+					"name": "Bilateral"
+				},
+				{
+					"name": "Syndicated Lending - Not RBC Agented (CB)"
+				},
+				{
+					"name": "Syndicated Lending - RBC Agented (CB)"
+				}
+		},
+		{
+			"name": "Corporate Client Group",
+			"productTypes": [
+				{
+					"name": "Bilateral (CCG)"
+				},
+				{
+					"name": "M & A (CCG)"
+				},
+				{
+					"name": "Supply Chain Finance (CCG)"
+				},
+				{
+					"name": "Syndicated Lending - Not RBC Agented (CCG)"
+				},
+				{
+					"name": "Syndicated Lending - RBC Agented (CCG)"
+				},
+				{
+					"name": "Visa (CCG)"
+				}
+			]
+		},
+		{
+			"name": "Credit Derivatives",
+			"productTypes": [
+				{
+					"name": "Swaps/Security Based Swaps"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Both (swaps and SBS) - Cleared)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Both (Swaps and SBS) - Uncleared / bilateral)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Loan TRS - Uncleared / Bilateral)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (RPA- Uncleared / Bilateral)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Single Name - Uncleared / Bilateral)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Single Name- Cleared)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Swaps - Cleared)"
+				},
+				{
+					"name": "Swaps/Security Based Swaps (Swaps- Uncleared / bilateral)"
+				}				
+			]
+		},
+		{
+			"name": "Equity Derivatives",
+			"productTypes": [
+				{
+					"name": "Cash Equities(Eq Deriv)"
+				},
+				{
+					"name": "Converts (Credit)"
+				},
+				{
+					"name": "Converts (No Credit)"
+				},
+				{
+					"name": "Listed Equity Derivatives"
+				},
+				{
+					"name": "OTC Equity Derivatives"
+				},
+				{
+					"name": "OTC Equity Derivatives (Both (Narrow and Broad) Index)"
+				},
+				{
+					"name": "OTC Equity Derivatives (Broad Based Index)"
+				},
+				{
+					"name": "OTC Equity Derivatives (Narrow Based Index)"
+				},
+				{
+					"name": "OTC Equity Derivatives (Pre-Paid Equity Forwards)"
+				},
+				{
+					"name": "OTC Equity Derivatives (Single Name)"
+				},
+				{
+					"name": "OTC Equity Derivatives (Single Stock Options)"
+				},
+				{
+					"name": "SPV Repack (Credit)"
+				},
+				{
+					"name": "SPV Repack (No Credit)"
+				},
+				{
+					"name": "Structured Deposits"
+				},
+				{
+					"name": "Structured Notes DVP"
+				},
+				{
+					"name": "Structured Notes Forward"
+				}				
+			]
+		},
+		{
+			"name": "Fixed Income",
+			"productTypes": [
+				{
+					"name": "Bond Forward- Cash Settled"
+				},
+				{
+					"name": "Bond Forward- Cash Settled (Both (US Treasury/Government / Other Government Bonds))"
+				},
+				{
+					"name": "Bond Forward- Cash Settled (Other Government Bonds)"
+				},
+				{
+					"name": "Bond Forward- Cash Settled (US treasury/Government Bonds)"
+				},
+				{
+					"name": "Bonds (FI)"
+				},
+				{
+					"name": "Guaranteed Investment Contracts (GICs)"
+				},
+				{
+					"name": "Loan Trading"
+				},
+				{
+					"name": "Money Markets (FI)"
+				},
+				{
+					"name": "Mortgage Backed Securities (FI)"
+				},
+				{
+					"name": "Municipal Products"
+				},
+				{
+					"name": "Municipal Products - Muni Axis"
+				},
+				{
+					"name": "Rates Derivatives - Bilateral & XCCY Swaps (FI)"
+				},
+				{
+					"name": "Rates Derivatives - Cleared"
+				},
+				{
+					"name": "Term Deposits"
+				}			
+			]
+		},
+		{
+			"name": "Fixed Income Origination",
+			"productTypes": [
+				{
+					"name": "Alternate Finance 401K"
+				},
+				{
+					"name": "Alternate Finance Bank Loan Financing"
+				},
+				{
+					"name": "Alternate Finance CLO Origination"
+				},
+				{
+					"name": "DCM Origination"
+				},
+				{
+					"name": "Securitization Conduit Finance"
+				},
+				{
+					"name": "Securitization Term ABS"
+				}		
+			]
+		},
+		{
+			"name": "Foreign Exchange",
+			"productTypes": [
+				{
+					"name": "ALL FX Products"
+				},
+				{
+					"name": "Spot FX Only"
+				}	
+			]
+		},
+		{
+			"name": "Futures",
+			"productTypes": [
+				{
+					"name": "Clearing"
+				},
+				{
+					"name": "Exchange Traded Derivative Execution"
+				},
+				{
+					"name": "Financing (Futures)"
+				}	
+			]
+		},
+		{
+			"name": "Global Equities",
+			"productTypes": [
+				{
+					"name": "Cash Equities (GE)"
+				}	
+			]
+		},
+		{
+			"name": "Global Investment Banking",
+			"productTypes": [
+				{
+					"name": "Global Investment Banking"
+				},
+				{
+					"name": "Municipal Finance - Direct Purchase Program"
+				},
+				{
+					"name": "Municipal Finance - Lending"
+				},
+				{
+					"name": "Municipal Finance - Origination"
+				},
+				{
+					"name": "RBC Community Investments"
+				},
+				{
+					"name": "Real Estate Brokerage"
+				}
+			]
+		},
+		{
+			"name": "Mortgage Investment Group",
+			"productTypes": [
+				{
+					"name": "Bonds (MIG)"
+				},
+				{
+					"name": "Mortgage Backed Securities (MIG)"
+				},
+				{
+					"name": "Mortgages"
+				},
+				{
+					"name": "Rates Derivatives - Bilateral & XCCY Swaps (MIG)"
+				},
+				{
+					"name": "Repo (MIG)"
+				}
+			]
+		},
+		{
+			"name": "Research",
+			"productTypes": [
+				{
+					"name": "Research Payment Accounts"
+				},
+				{
+					"name": "Research Services"
+				}
+			]
+		},
+		{
+			"name": "Treasury Services (TMS)",
+			"productTypes": [
+				{
+					"name": "ALL FX Products(I&TS)"
+				},
+				{
+					"name": "Bonds(I&TS)"
+				},
+				{
+					"name": "Committed Lending"
+				},
+				{
+					"name": "Deposits (I&TS)"
+				},
+				{
+					"name": "Money Markets (I&TS)"
+				},
+				{
+					"name": "Rates Derivatives- Bilateral & XCCY Swaps(I&TS)"
+				},
+				{
+					"name": "Rates Derivatives- Cleared(I&TS)"
+				},
+				{
+					"name": "Repo - Bilateral(I&TS)"
+				},
+				{
+					"name": "Securities Lending - Triparty(I&TS)"
+				},
+				{
+					"name": "Spot FX Only(I&TS)"
+				},
+				{
+					"name": "Standby Letter of Credit"
+				}		
+			]
+		}
+	]
+}
